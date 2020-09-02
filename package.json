@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "node-gyp configure build"
+  },
+  "dependencies": {
+    "bindings": "^1.5.0"
+  }
+}
