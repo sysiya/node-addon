@@ -13,3 +13,8 @@ file-uri-to-path@1.0.0:
   version "1.0.0"
   resolved "http://registry.npm.qima-inc.com/file-uri-to-path/download/file-uri-to-path-1.0.0.tgz#553a7b8446ff6f684359c445f1e37a05dacc33dd"
   integrity sha1-VTp7hEb/b2hDWcRF8eN6BdrMM90=
+
+node-addon-api@^3.0.0:
+  version "3.0.0"
+  resolved "http://registry.npm.qima-inc.com/node-addon-api/download/node-addon-api-3.0.0.tgz#812446a1001a54f71663bed188314bba07e09247"
+  integrity sha1-gSRGoQAaVPcWY77RiDFLugfgkkc=
